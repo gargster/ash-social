@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:549ead8e2ab27d3fbdc269d920c23a2ff36e5cec14ddd4501db2a8fec3e00293",
   "handle": "ash.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/ash-social.git",
   "displayName": "Ash",
   "bio": "Pokemon Trainer",
   "created": "2026-09-21T01:33:00.946071Z",
-  "signature": "LvsQR/DkjoZeHSQBtpyZYqeIm+yCOOsTZv2ZEjikCZr1nznF9yGHQEy6tAa3Cd/m+vDZOdx1nRhWc9DuWEzMCA=="
+  "signature": "W9VjEALOMgWOeNZOh+04exd/PfNwGFoh1sjLkW3lR26nkfE0BuFDyJS6nc/p7WoOLV32WVHuF84O50pnium3BQ=="
 }
